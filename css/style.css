@@ -65,6 +65,19 @@ h2 {
   box-shadow: 0 10px 25px rgba(0,0,0,0.05);
 }
 
+.button {
+  background-color: blue;
+  border: 1px solid;
+  color: darkblue;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+}
+  
+  
+
 footer {
   text-align: center;
   padding: 2rem;
